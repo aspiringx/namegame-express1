@@ -4,6 +4,10 @@ This is a server for namegame. We have another server in progress too
 allow people to focus on technologies they want to learn. Soon we may have
 namegame-python1 and namegame-go1. 
 
+I followed this GraphQL tutorial to create it but will be tweaking some things as 
+it progresses (mysql instead of postgres, etc.): 
+https://snipcart.com/blog/graphql-nodejs-express-tutorial
+
 ## Install
 To try this out locally:
 
